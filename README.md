@@ -44,3 +44,11 @@ The project is configured for the MySQL database `recruitment_portal`.
 - VS Code run/debug configuration
 
 Students can extend Company, Interview, Offer, Placement and additional reports.
+
+
+## Recent Enhancements
+- Updated menu labels and prompts for better readability
+- Added full name and passing year validations
+- Added Search Candidates by Technology (Option 6)
+- Added Filter Candidates by Placement Status (Option 7)
+- Added total record count summaries for candidates and open jobs
