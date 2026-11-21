@@ -42,6 +42,8 @@ def main():
     report_service = ReportService()
     log_service = ActivityLogService()
 
+    print("\nWelcome to RPMS - Campus Recruitment & Placement Portal!")
+
     while True:
         print_menu()
 
