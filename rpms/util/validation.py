@@ -1,3 +1,4 @@
+# Input validation helpers for RPMS candidate registration
 import re
 
 def is_valid_name(name: str) -> bool:
