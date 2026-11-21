@@ -1,3 +1,4 @@
+# Search candidates by primary technology (case-insensitive)
 from rpms.exception.exceptions import CandidateNotFoundError
 from rpms.util.validation import (
     is_valid_name,
